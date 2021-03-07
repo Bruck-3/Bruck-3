@@ -49,9 +49,6 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruck-3&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruck-3&langs_count=5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruck-3&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruck-3&langs_count=5&show_icons=true&theme=radical)
 
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
