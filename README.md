@@ -1,7 +1,7 @@
 <h3 title=""> Hey 👋, I'm Bruck</h3>
 
 <a href="https://www.linkedin.com/in/bruck25/">
-  <img align="left" alt="Bruck's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </a>
 <a href="https://www.instagram.com/__bruck/">
   <img align="left" alt="Bruck's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
