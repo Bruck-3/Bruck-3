@@ -51,7 +51,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruck-3&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruck-3&langs_count=5&bg_color#757575)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruck-3&langs_count=5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 Credit: [Jas-Script](https://github.com/Jas-Script)
