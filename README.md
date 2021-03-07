@@ -1,7 +1,5 @@
 ### Hi there I am Bruck 👋
 
-<!--
-**Bruck-3/Bruck-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS and I
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... brucktafesse25@gmail.com
--->
+
