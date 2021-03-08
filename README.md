@@ -21,7 +21,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I am a Software Engineer
+- 👨🏽‍💻 I am a Software Developer
 - 🌱 I’m currently learning Node.js and non-relational database structure . 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
