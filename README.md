@@ -23,11 +23,11 @@ i am also a UX designer. I like to design and create user experiences that are i
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       11 hrs 6 mins   ████████████████████░░░░░   79.55 %
-JavaScript   1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-JSON         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-SCSS         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-PHP          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Vue.js       11 hrs 9 mins   ███████████████████▒░░░░░   77.76 %
+JSON         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+JavaScript   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+SCSS         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+PHP          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
