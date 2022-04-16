@@ -24,12 +24,12 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       20 hrs 34 mins  █████████████████████░░░░   83.46 %
-JavaScript   2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-SCSS         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Vue.js       18 hrs 59 mins  ██████████████████████░░░   87.71 %
+JavaScript   2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+SCSS         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
