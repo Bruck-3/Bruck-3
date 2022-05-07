@@ -24,7 +24,7 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-Other            35 hrs 32 mins  ███████████████████████▒░   93.15 %
+Other            35 hrs 12 mins  ███████████████████████░░   92.26 %
 ```
 
 <!--END_SECTION:waka-->
