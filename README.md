@@ -24,9 +24,8 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js     3 hrs 9 mins    ████████████████████████░   96.03 %
-SCSS       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Vue.js     2 hrs 43 mins   █████████████████████████   99.59 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
