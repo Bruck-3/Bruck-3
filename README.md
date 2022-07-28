@@ -24,12 +24,12 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   4 hrs 35 mins   ████████████▓░░░░░░░░░░░░   50.31 %
-JavaScript       1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-PHP              1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-JSON             51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Bash             39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-CSS              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Blade Template   2 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 %
+JavaScript       1 hr 30 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
+PHP              1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+JSON             51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Bash             39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+CSS              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
