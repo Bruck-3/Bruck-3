@@ -24,12 +24,10 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-HTML         3 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.31 %
-SCSS         2 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   40.08 %
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML    3 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.57 %
+SCSS    2 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   40.26 %
+CSS     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
