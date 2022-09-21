@@ -24,9 +24,9 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-HTML    3 hrs 45 mins   ██████████████▓░░░░░░░░░░   58.14 %
-SCSS    2 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   40.71 %
-CSS     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+HTML    3 hrs 13 mins   ███████████████▒░░░░░░░░░   61.38 %
+SCSS    1 hr 57 mins    █████████▒░░░░░░░░░░░░░░░   37.25 %
+CSS     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
