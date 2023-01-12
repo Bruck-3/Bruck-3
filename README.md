@@ -24,9 +24,10 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-PHP    2 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.11 %
-CSS    1 hr 44 mins    ███████████░░░░░░░░░░░░░░   44.28 %
-HTML   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+PHP    3 hrs 17 mins   █████████████▓░░░░░░░░░░░   55.21 %
+CSS    2 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.40 %
+HTML   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+SCSS   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
