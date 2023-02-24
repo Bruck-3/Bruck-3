@@ -2,9 +2,11 @@
 
 <br />
 
-hi, I'm Bruck Demissie, a passionate  front end  web developer and a freelance software engineer from Ethiopia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello! I'm Bruck Demissie, a passionate  full-stack web developer and a freelance software engineer from Ethiopia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a UX designer. I like to design and create user experiences that are intuitive and easy to use.
+I have 3+ years of experience working on Vue + Laravel SaaS projects including a SaaS for a restaurant management web app that specializes in food Accounting and tax services, a full online long-term internship management web application, and an online Job marketplace based in Ethiopia.
+
+I also have experience in UI/UX design. I like to design and create user experiences that are intuitive and easy to use.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
