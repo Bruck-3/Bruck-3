@@ -26,11 +26,9 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-Python       46 mins         ██████████████████▓░░░░░░   74.02 %
-Vue.js       12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Vue.js       12 mins         ████████████████████░░░░░   80.10 %
+JavaScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JSON         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
 ```
 
 <!--END_SECTION:waka-->
