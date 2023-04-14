@@ -26,10 +26,7 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   43 mins         ██████████████▓░░░░░░░░░░   58.27 %
-Vue.js       25 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
