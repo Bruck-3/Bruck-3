@@ -26,7 +26,8 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         3 mins          ████████████████▓░░░░░░░░   66.45 %
+JavaScript   1 min           ████████▒░░░░░░░░░░░░░░░░   33.55 %
 ```
 
 <!--END_SECTION:waka-->
