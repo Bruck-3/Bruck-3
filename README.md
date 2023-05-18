@@ -26,8 +26,8 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-JSON         3 mins          ████████████████▓░░░░░░░░   66.45 %
-JavaScript   1 min           ████████▒░░░░░░░░░░░░░░░░   33.55 %
+JavaScript   5 mins          ███████████████▓░░░░░░░░░   63.19 %
+JSON         3 mins          █████████▒░░░░░░░░░░░░░░░   36.81 %
 ```
 
 <!--END_SECTION:waka-->
