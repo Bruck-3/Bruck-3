@@ -26,7 +26,11 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   57 mins         ███████████████░░░░░░░░░░   59.94 %
+Git Config   31 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
