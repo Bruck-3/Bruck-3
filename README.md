@@ -25,12 +25,12 @@ I also have experience in UI/UX design. I like to design and create user experie
 Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   57 mins         ███████████████░░░░░░░░░░   59.94 %
-Git Config   31 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+```txt
+JavaScript   1 hr 9 mins     ████████████████░░░░░░░░░   64.36 %
+Git Config   31 mins         ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
