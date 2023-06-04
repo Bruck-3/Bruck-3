@@ -26,11 +26,11 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 9 mins     ████████████████░░░░░░░░░   64.36 %
-Git Config   31 mins         ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+JavaScript   1 hr 51 mins    ██████████████████▒░░░░░░   73.70 %
+Git Config   31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
