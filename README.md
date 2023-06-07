@@ -10,11 +10,11 @@
 
 🚀 I'm passionate about delivering high-quality code and ensuring optimal performance and scalability. I enjoy tackling challenging problems and finding innovative solutions, always striving to stay up-to-date with the latest web development trends and best practices.
 
-🌟 Some of the projects I've worked on include SaaS for Restaurant Management,Online Long-term Internship Management, and ONline Job Marketplace in Ethiopia where I contributed to Design, Development and Maintainance of these projects.
+🌟 Some of the projects I've worked on include SaaS for Restaurant Management,Online Long-term Internship Management, and Online Job Marketplace in Ethiopia where I contributed to Design, Development and Maintainance of these projects.
 
 📚 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or continuously learning and enhancing my skills.
 
-📫 Let's connect! Feel free to reach out to me on [email](mailto:brucktafesse25@gmail.com)to discuss exciting opportunities or collaborate on interesting projects.
+📫 Let's connect! Feel free to reach out to me on  [email](mailto:brucktafesse25@gmail.com)to discuss exciting opportunities or collaborate on interesting projects.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
