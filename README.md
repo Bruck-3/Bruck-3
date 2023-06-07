@@ -1,17 +1,23 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">       
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Bruck!
 
-<br />
+👨‍💻 I'm a passionate Vue + Laravel developer with over 3 years of professional experience.
 
-Hello! I'm Bruck Demissie, a passionate  full-stack web developer and a freelance software engineer from Ethiopia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+🎓 I hold a Bachelor's degree in software engineering, which has equipped me with a solid foundation in developing robust and scalable web applications.
 
-I have 3+ years of experience working on Vue + Laravel SaaS projects including a SaaS for a restaurant management web app that specializes in food Accounting and tax services, a full online long-term internship management web application, and an online Job marketplace based in Ethiopia.
+💼 Throughout my career, I've had the opportunity to work on various projects, ranging from small-scale applications to large enterprise solutions. My expertise lies in building modern, user-friendly interfaces using Vue.js, and creating powerful backend systems with Laravel.
 
-I also have experience in UI/UX design. I like to design and create user experiences that are intuitive and easy to use.
+⚙️ I have a deep understanding of the Vue.js framework and its ecosystem, including Vuex for state management, Vue Router for navigation, and Vue CLI for efficient project setup. I leverage Laravel's elegant syntax, powerful ORM, and extensive ecosystem to develop RESTful APIs, handle authentication, and perform complex database operations.
+
+🚀 I'm passionate about delivering high-quality code and ensuring optimal performance and scalability. I enjoy tackling challenging problems and finding innovative solutions, always striving to stay up-to-date with the latest web development trends and best practices.
+
+🌟 Some of the projects I've worked on include SaaS for Restaurant Management,Online Long-term Internship Management, and ONline Job Marketplace in Ethiopia where I contributed to Design, Development and Maintainance of these projects.
+
+📚 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or continuously learning and enhancing my skills.
+
+📫 Let's connect! Feel free to reach out to me on [email](mailto:brucktafesse25@gmail.com)to discuss exciting opportunities or collaborate on interesting projects.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:brucktafesse25@gmail.com) :)
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
