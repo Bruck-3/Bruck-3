@@ -14,7 +14,7 @@
 
 📚 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or continuously learning and enhancing my skills.
 
-📫 Let's connect! Feel free to reach out to me on  [email](mailto:brucktafesse25@gmail.com)to discuss exciting opportunities or collaborate on interesting projects.
+📫 Let's connect! Feel free to reach out to me on  [email](mailto:brucktafesse25@gmail.com) to discuss exciting opportunities or collaborate on interesting projects.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
