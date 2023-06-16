@@ -32,11 +32,11 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       5 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
-JavaScript   4 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.25 %
-JSON         2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+JavaScript   4 hrs 51 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
+Vue.js       4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.33 %
+JSON         2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
