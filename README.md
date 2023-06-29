@@ -16,8 +16,6 @@
 
 📫 Let's connect! Feel free to reach out to me on  [email](mailto:brucktafesse25@gmail.com) to discuss exciting opportunities or collaborate on interesting projects.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
