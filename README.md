@@ -30,8 +30,8 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       8 hrs 5 mins    █████████████████████░░░░   83.34 %
-JavaScript   1 hr 35 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Vue.js       8 hrs 5 mins    █████████████████████▒░░░   85.53 %
+JavaScript   1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
