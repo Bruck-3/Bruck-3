@@ -30,11 +30,11 @@ Here is what I have been working on this week
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       10 hrs 29 mins  ██████████████████░░░░░░░   72.65 %
-JavaScript   3 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Vue.js       13 hrs 50 mins  █████████████████▓░░░░░░░   71.08 %
+JavaScript   5 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
