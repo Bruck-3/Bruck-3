@@ -27,7 +27,7 @@
 
 
 Here is what I have been working on this week
-<figure><embed src="https://wakatime.com/share/@ee0c8841-1fc0-4438-a2fd-816abb2be580/a74d7da6-0f5a-44ef-92f9-83c5abd75ae3.svg"></embed></figure>
+<img><embed src="https://wakatime.com/share/@ee0c8841-1fc0-4438-a2fd-816abb2be580/a74d7da6-0f5a-44ef-92f9-83c5abd75ae3.svg"></embed></img>
 
 ```txt
 Vue.js       13 hrs 9 mins   ███████████████▓░░░░░░░░░   63.13 %
