@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Bruck!
 
-👨‍💻 I'm a passionate Vue + Laravel developer with over 3 years of professional experience.
+👨‍💻 I'm a passionate Vue + Laravel developer with 4 years of professional experience.
 
 🎓 I hold a Bachelor's degree in software engineering, which has equipped me with a solid foundation in developing robust and scalable web applications.
 
